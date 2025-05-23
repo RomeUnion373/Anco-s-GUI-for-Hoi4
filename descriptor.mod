@@ -3,4 +3,6 @@ tags={
 	"Graphics"
 }
 name="Anco's GUI for Hoi4"
-supported_version="1.16.8"
+supported_version="1.16.*"
+
+replace_path="gfx/loadingscreens"
